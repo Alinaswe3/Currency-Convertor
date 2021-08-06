@@ -10,3 +10,8 @@ alinaswe45@gmail.com for any improvements or suggestions. Have a nice
 time converting between currencies.
 #FYI I really want someone to help me with gui bug issue
 #P.S run the app using an interpreter its not yet executable
+#The app needs some external modules:
+1.cryptography
+2.pyperclip
+3.requests
+
